@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Aora",
-    "schema": "aora",
+    "scheme": "aora",
     "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.arsene.aora"
     },
     "android": {
       "adaptiveIcon": {
